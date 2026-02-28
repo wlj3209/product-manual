@@ -1206,10 +1206,6 @@
   "navbar": {
     "links": [
       {
-        "label": "Submit Feedback",
-        "href": "https://forms.zohopublic.com/cobo/form/DocumentFeedbackForm/formperma/QvLOhxJv1_JMsJ-1dleZ8Itb_7rzN-LtgvsDdxosoVI?referrername=manuals"
-      },
-      {
         "label": "Developer Hub",
         "href": "https://www.cobo.com/developers/v2/guides/overview/introduction"
       }
